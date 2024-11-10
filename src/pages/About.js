@@ -14,7 +14,7 @@ function About() {
         </div>
         <h1>About Me</h1>
         <p>
-          Hi! I'm Manoj, a passionate developer with a love for creating
+          Hi! I'm Manoj, a passionate frontend developer with a love for creating
           intuitive and user-friendly web applications. With a strong foundation
           in both front-end and back-end technologies, I thrive in building
           innovative solutions. I'm always eager to learn new technologies and
